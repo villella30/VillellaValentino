@@ -1,0 +1,223 @@
+@media screen and (max-width: 767px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: auto;
+        width: 90%;
+        margin: auto;
+
+    }
+
+    .formContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #060c13;
+        width: 95%;
+        height: 500px;
+        border-radius: 30px;
+    }
+
+    .title2 {
+        font-size: x-large;
+    }
+
+    .inputTextStyles {
+        width: 80%;
+        height: 50px;
+        max-width: 100%;
+        margin-bottom: 10px;
+        background-color: #060c13;
+        border-radius: 10px;
+        border: 1px solid rgb(177, 178, 179);
+        color: white;
+    }
+
+    .inputTextStyles:focus {
+        outline: none;
+        border: 1px solid rgb(132, 0, 255);
+    }
+
+    .text {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 20px;
+        font-weight: 400;
+        font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    }
+
+    .text::placeholder {
+        font-size: 20px;
+        padding-left: 1px;
+        padding-right: 1px;
+        font-weight: 400;
+        font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    }
+
+    .textMultiline {
+        padding-top: 10px;
+    }
+
+
+    .btnEnviar {
+        background: -webkit-linear-gradient(225deg, rgb(132, 0, 255) 0%, rgb(230, 0, 255) 100%);
+        color: white;
+        height: 50px;
+        width: 85%;
+        margin-top: 20px;
+        font-size: 18px;
+        border-radius: 10px;
+        border: none;
+        cursor: pointer;
+    }
+
+}
+
+@media screen and (max-width: 1199px) and (min-width: 768px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: auto;
+        width: 90%;
+        margin: auto auto;
+
+    }
+
+    .formContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #060c13;
+        width: 95%;
+        height: 500px;
+        border-radius: 30px;
+    }
+
+    .title2 {
+        font-size: x-large;
+    }
+
+    .inputTextStyles {
+        width: 80%;
+        height: 50px;
+        max-width: 100%;
+        margin-bottom: 10px;
+        background-color: #060c13;
+        border-radius: 10px;
+        border: 1px solid rgb(177, 178, 179);
+        color: white;
+    }
+
+    .inputTextStyles:focus {
+        outline: none;
+        border: 1px solid rgb(132, 0, 255);
+    }
+
+    .text {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 20px;
+        font-weight: 400;
+        font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    }
+
+    .text::placeholder {
+        font-size: 20px;
+        padding-left: 1px;
+        padding-right: 1px;
+        font-weight: 400;
+        font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    }
+
+    .textMultiline {
+        padding-top: 10px;
+    }
+
+
+    .btnEnviar {
+        background: -webkit-linear-gradient(225deg, rgb(132, 0, 255) 0%, rgb(230, 0, 255) 100%);
+        color: white;
+        height: 50px;
+        width: 85%;
+        margin-top: 20px;
+        font-size: 18px;
+        border-radius: 10px;
+        border: none;
+        cursor: pointer;
+    }
+
+
+}
+
+@media screen and (min-width: 1200px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: auto;
+    }
+
+    .formContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #060c13;
+        width: 700px;
+        height: 500px;
+        border-radius: 30px;
+    }
+
+    .inputTextStyles {
+        width: 550px;
+        height: 50px;
+        max-width: 100%;
+        margin-bottom: 10px;
+        background-color: #060c13;
+        border-radius: 10px;
+        border: 1px solid rgb(177, 178, 179);
+        color: white;
+    }
+
+    .inputTextStyles:focus {
+        outline: none;
+        border: 1px solid rgb(132, 0, 255);
+    }
+
+    .text {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 20px;
+        font-weight: 400;
+        font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    }
+
+    .text::placeholder {
+        font-size: 20px;
+        padding-left: 1px;
+        padding-right: 1px;
+        font-weight: 400;
+        font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    }
+
+    .textMultiline {
+        padding-top: 10px;
+    }
+
+    .btnEnviar {
+        background: -webkit-linear-gradient(225deg, rgb(132, 0, 255) 0%, rgb(230, 0, 255) 100%);
+        color: white;
+        height: 50px;
+        width: 570px;
+        margin-top: 20px;
+        font-size: 18px;
+        border-radius: 10px;
+        border: none;
+        cursor: pointer;
+    }
+
+}
