@@ -5,15 +5,17 @@ import SvgHtml from '../images/HTML.svg';
 import SvgCss from '../images/CSS.svg';
 import PngJavaScript from '../images/JS.png';
 import SvgNode from '../images/NODE.svg';
-import SvgMySql from "../images/MySql.svg"
 import SvgGit from "../images/GIT.svg"
 import SvgGitHub from "../images/GitHub.svg"
-import SvgVsCode from "../images/VsCode.svg"
 import SvgReact from "../images/React.svg"
 import SvgMui from "../images/Mui.svg"
 import SvgBootStrap from "../images/BS.svg"
-import SvgFigma from "../images/Figma.svg"
 import SvgFB from "../images/FB.svg"
+import SvgNext from '../images/SvgNext.svg'
+// import SvgMySql from "../images/MySql.svg"
+// import SvgVsCode from "../images/VsCode.svg"
+// import SvgFigma from "../images/Figma.svg"
+
 
 const SkillCard = ({ title, icon }) => (
     <Grid className='languaje'>
@@ -41,7 +43,7 @@ const FrontEnd = () => (
                     <SkillCard title="MATERIAL-UI" icon={SvgMui} />
                     <SkillCard title="BOOTSTRAP" icon={SvgBootStrap} />
                     <SkillCard title="NODE JS" icon={SvgNode} />
-                    {/* <SkillCard title="MYSQL" icon={SvgMySql} /> */}
+                    <SkillCard title="NEXT JS" icon={SvgNext} />
                     <SkillCard title="FIREBASE" icon={SvgFB} />
                     <SkillCard title="GIT" icon={SvgGit} />
                     <SkillCard title="GITHUB" icon={SvgGitHub} />
