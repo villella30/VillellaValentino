@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec99d41e.css",
+    "main.js": "/static/js/main.c39895bf.js",
+    "static/media/MyPhoto.jpg": "/static/media/MyPhoto.670d45396565c21d9e91.jpg",
+    "static/media/ProjectTwo.png": "/static/media/ProjectTwo.a7ea024a9dd042995267.png",
+    "static/media/Ecommerce.png": "/static/media/Ecommerce.419ea3099aeb60f943fb.png",
+    "static/media/ProjectOne.png": "/static/media/ProjectOne.15c76c2b296cb9daf31e.png",
+    "static/media/React.svg": "/static/media/React.03efd7ced1ca43423bdc7a918c2472ed.svg",
+    "static/media/NODE.svg": "/static/media/NODE.cccdafa931eebdaea49f5c5ac3ba232f.svg",
+    "static/media/Linkedin.svg": "/static/media/Linkedin.c304a4148cde039a54532585f4d47b48.svg",
+    "static/media/Gmail.svg": "/static/media/Gmail.2c70fa80e7595c831171e23d3d580539.svg",
+    "static/media/BS.svg": "/static/media/BS.c2b6db5b07dafc23f205980c22be4ab0.svg",
+    "static/media/GitHub.svg": "/static/media/GitHub.e7e2bc8e3b94958f09a23ee8a5aaae7a.svg",
+    "static/media/GIT.svg": "/static/media/GIT.43d387b77657117c0e407816cbf72476.svg",
+    "index.html": "/index.html",
+    "static/media/Mui.svg": "/static/media/Mui.60a0ece058ff0f20c1815cf138a56e35.svg",
+    "static/media/FB.svg": "/static/media/FB.c55df03130647cc8ee934a0a6ebecf70.svg",
+    "static/media/CSS.svg": "/static/media/CSS.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
+    "static/media/SvgNext.svg": "/static/media/SvgNext.754e74478e5d0cda47e59b1ba4771d1f.svg",
+    "static/media/HTML.svg": "/static/media/HTML.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "main.ec99d41e.css.map": "/static/css/main.ec99d41e.css.map",
+    "main.c39895bf.js.map": "/static/js/main.c39895bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec99d41e.css",
+    "static/js/main.c39895bf.js"
+  ]
+}

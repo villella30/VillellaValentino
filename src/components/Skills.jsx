@@ -12,7 +12,7 @@ import SvgMui from "../images/Mui.svg"
 import SvgBootStrap from "../images/BS.svg"
 import SvgFB from "../images/FB.svg"
 import SvgNext from '../images/SvgNext.svg'
-// import SvgMySql from "../images/MySql.svg"
+// import SvgMySql from "../images/MySql.svg"np
 // import SvgVsCode from "../images/VsCode.svg"
 // import SvgFigma from "../images/Figma.svg"
 
