@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/VillellaValentino/static/css/main.ec99d41e.css",
+    "main.js": "/VillellaValentino/static/js/main.2ef68c73.js",
+    "static/media/MyPhoto.jpg": "/VillellaValentino/static/media/MyPhoto.670d45396565c21d9e91.jpg",
+    "static/media/ProjectTwo.png": "/VillellaValentino/static/media/ProjectTwo.a7ea024a9dd042995267.png",
+    "static/media/Ecommerce.png": "/VillellaValentino/static/media/Ecommerce.419ea3099aeb60f943fb.png",
+    "static/media/ProjectOne.png": "/VillellaValentino/static/media/ProjectOne.15c76c2b296cb9daf31e.png",
+    "static/media/React.svg": "/VillellaValentino/static/media/React.03efd7ced1ca43423bdc7a918c2472ed.svg",
+    "static/media/NODE.svg": "/VillellaValentino/static/media/NODE.cccdafa931eebdaea49f5c5ac3ba232f.svg",
+    "static/media/Linkedin.svg": "/VillellaValentino/static/media/Linkedin.c304a4148cde039a54532585f4d47b48.svg",
+    "static/media/Gmail.svg": "/VillellaValentino/static/media/Gmail.2c70fa80e7595c831171e23d3d580539.svg",
+    "static/media/BS.svg": "/VillellaValentino/static/media/BS.c2b6db5b07dafc23f205980c22be4ab0.svg",
+    "static/media/GitHub.svg": "/VillellaValentino/static/media/GitHub.e7e2bc8e3b94958f09a23ee8a5aaae7a.svg",
+    "index.html": "/VillellaValentino/index.html",
+    "static/media/GIT.svg": "/VillellaValentino/static/media/GIT.43d387b77657117c0e407816cbf72476.svg",
+    "static/media/Mui.svg": "/VillellaValentino/static/media/Mui.60a0ece058ff0f20c1815cf138a56e35.svg",
+    "static/media/FB.svg": "/VillellaValentino/static/media/FB.c55df03130647cc8ee934a0a6ebecf70.svg",
+    "static/media/CSS.svg": "/VillellaValentino/static/media/CSS.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
+    "static/media/SvgNext.svg": "/VillellaValentino/static/media/SvgNext.754e74478e5d0cda47e59b1ba4771d1f.svg",
+    "static/media/HTML.svg": "/VillellaValentino/static/media/HTML.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "main.ec99d41e.css.map": "/VillellaValentino/static/css/main.ec99d41e.css.map",
+    "main.2ef68c73.js.map": "/VillellaValentino/static/js/main.2ef68c73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec99d41e.css",
+    "static/js/main.2ef68c73.js"
+  ]
+}
